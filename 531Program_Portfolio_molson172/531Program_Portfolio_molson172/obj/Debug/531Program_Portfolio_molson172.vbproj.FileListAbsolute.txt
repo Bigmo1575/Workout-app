@@ -1,0 +1,14 @@
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\531Program_Portfolio_molson172.vbprojAssemblyReference.cache
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\_531Program_Portfolio_molson172.Form1.resources
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\_531Program_Portfolio_molson172.Resources.resources
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\531Program_Portfolio_molson172.vbproj.GenerateResource.cache
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\531Program_Portfolio_molson172.vbproj.CoreCompileInputs.cache
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\bin\Debug\UserDB.mdf
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\bin\Debug\UserDB_log.ldf
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\bin\Debug\531Program_Portfolio_molson172.exe.config
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\bin\Debug\531Program_Portfolio_molson172.exe
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\bin\Debug\531Program_Portfolio_molson172.pdb
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\bin\Debug\531Program_Portfolio_molson172.xml
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\531Program_Portfolio_molson172.exe
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\531Program_Portfolio_molson172.xml
+C:\Users\olson\Documents\Semester_2\.NET\531Program_Portfolio_molson172\531Program_Portfolio_molson172\obj\Debug\531Program_Portfolio_molson172.pdb
